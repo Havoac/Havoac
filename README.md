@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zH0sIYxh_nOvTfmZfUi2YXkRaPcOmEqC/view?usp=drive_link](https://drive.google.com/file/d/1zH0sIYxh_nOvTfmZfUi2YXkRaPcOmEqC/view?usp=drive_link)
 
-- ⚡ Fun fact **I like hardcore coding**
+- ⚡ Fun fact **I like maths**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
