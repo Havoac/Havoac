@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shivansh Singh</h1>
 <h3 align="center">Game Developer. Making prototypes.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=havoac&label=Profile%20views&color=0e75b6&style=flat" alt="havoac" /> </p>
+
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://havoac.github.io/portfolio/](https://havoac.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://havoac.github.io/portfolio/)
 
 - 💬 Ask me about **DSA and Coding**
 
-- 📫 How to reach me **shivanshsingh9670@gmail.com**
+- 📫 You can reach me at [shivanshsingh9670@gmail.com](mailto:shivanshsingh9670@gmail.com).
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zH0sIYxh_nOvTfmZfUi2YXkRaPcOmEqC/view?usp=drive_link](https://drive.google.com/file/d/1zH0sIYxh_nOvTfmZfUi2YXkRaPcOmEqC/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zH0sIYxh_nOvTfmZfUi2YXkRaPcOmEqC/view?usp=drive_link)
 
-- ⚡ Fun fact **I like maths**
+-  Fun fact **I like maths**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
