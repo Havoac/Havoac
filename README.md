@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **DSA and Coding**
 
-- 📫 You can reach me at [shivanshsingh9670@gmail.com](mailto:shivanshsingh9670@gmail.com).
+- 📫 You can reach me at [shivanshsingh9670@gmail.com](mailto:shivanshsingh9670@gmail.com)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zH0sIYxh_nOvTfmZfUi2YXkRaPcOmEqC/view?usp=drive_link)
 
