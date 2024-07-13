@@ -2,7 +2,7 @@
 <h3 align="center">Game Developer. Making prototypes.</h3>
 
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://havoac.github.io/portfolio/)
 
