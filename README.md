@@ -1,11 +1,11 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/channel/UCcSu42m7xhCumIKkKupnpRA) 
 
 <h1 align="center">Hi 👋, I'm Shivansh Singh</h1>
-<h3 align="center">Game Developer. Making prototypes.</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshsingh&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshsingh" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently working on **SpringBoot Projects**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://havoac.github.io/portfolio/)
 
@@ -13,7 +13,7 @@
 
 - 📫 You can reach me at [shivanshsingh9670@gmail.com](mailto:shivanshsingh9670@gmail.com)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1zH0sIYxh_nOvTfmZfUi2YXkRaPcOmEqC/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1_9fIu6p7BugN6Q99KK25SpO0DdCJ-L_X/view?usp=drive_link)
 
 -  Fun fact **I like maths**
 
