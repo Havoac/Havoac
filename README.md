@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **SpringBoot Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://havoac.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-revised-2.netlify.app/)
 
 - 💬 Ask me about **DSA and Coding**
 
