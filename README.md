@@ -89,8 +89,3 @@ I enjoy working with a variety of technologies across the full stack to build ro
 <img src="https://github-profile-trophy.vercel.app/?username=Havoac&theme=radical&no-frame=true&no-bg=true&title=Followers,Commits,Stars,Experience" alt="GitHub Profile Trophy" />
 </p>
 
-### 📈 Contribution Graph
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Havoac&" alt="Havoac" /></p>
-
-
