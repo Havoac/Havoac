@@ -77,8 +77,10 @@ I enjoy working with a variety of technologies across the full stack to build ro
 
 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Havoac&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Havoac&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Havoac&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoac&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -87,10 +89,8 @@ I enjoy working with a variety of technologies across the full stack to build ro
 <img src="https://github-profile-trophy.vercel.app/?username=Havoac&theme=radical&no-frame=true&no-bg=true&title=Followers,Commits,Stars,Experience" alt="GitHub Profile Trophy" />
 </p>
 
-📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Havoac&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
+### 📈 Contribution Graph
 
-⚡ Fun Fact
-I love debugging tough bugs as much as I love writing clean code. 💡
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Havoac&" alt="Havoac" /></p>
+
+
