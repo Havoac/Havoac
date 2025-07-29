@@ -72,7 +72,7 @@ I enjoy working with a variety of technologies across the full stack to build ro
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-<img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Unity-00599C?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
 </p>
 
 📊 GitHub Stats
