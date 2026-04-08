@@ -75,17 +75,17 @@ I enjoy working with a variety of technologies across the full stack to build ro
 <img src="https://img.shields.io/badge/Unity-00599C?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
 </p>
 
+<!---
 📊 GitHub Stats
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Havoac&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoac&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Havoac&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 🏆 GitHub Trophy
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Havoac&theme=radical&no-frame=true&no-bg=true&title=Followers,Commits,Stars,Experience" alt="GitHub Profile Trophy" />
 </p>
-
+-->
