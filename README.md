@@ -14,7 +14,7 @@
 
 📫 How to reach me: shivanshsingh9670@gmail.com
 
-📄 Learn more about my professional journey: <a href="https://drive.google.com/file/d/1XmRanaGEdEAyCAivycKO8NdirBFHHp1l/view?usp=drive_link" target="_blank">My Resume</a>
+📄 Learn more about my professional journey: <a href="https://drive.google.com/file/d/1TH9-pvcgQhPZhee8ynIqlZxwVsrPSLjQ/view?usp=drive_link" target="_blank">My Resume</a>
 
 🔗 Explore my diverse projects: <a href="https://portfolio-revised-2.netlify.app/" target="_blank">My Portfolio</a>
 
