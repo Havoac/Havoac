@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | CSE Grad'23 | Spring Boot | React | DSA</h3>
+<h3 align="center">🚀 Backend Developer | CSE Grad'23 | Spring Boot | React | DSA</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=37F7D5&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+DSA;Learning+System+Design" alt="Welcome to my GitHub! Full Stack Developer Spring Boot | React | DSA Learning System Design" />
@@ -75,17 +75,16 @@ I enjoy working with a variety of technologies across the full stack to build ro
 <img src="https://img.shields.io/badge/Unity-00599C?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
 </p>
 
-<!---
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Havoac&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Havoac&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Havoac&theme=radical"
+    alt="Havoac's GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Havoac&theme=radical&hide_border=true"
+    alt="Havoac's GitHub Streak"
+  />
 </p>
 
-🏆 GitHub Trophy
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Havoac&theme=radical&no-frame=true&no-bg=true&title=Followers,Commits,Stars,Experience" alt="GitHub Profile Trophy" />
-</p>
--->
