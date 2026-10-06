@@ -75,6 +75,15 @@ I enjoy working with a variety of technologies across the full stack to build ro
 <img src="https://img.shields.io/badge/Unity-00599C?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
 </p>
 
+## 💻 Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havoac&layout=donut&theme=radical&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,4 +96,3 @@ I enjoy working with a variety of technologies across the full stack to build ro
     alt="Havoac's GitHub Streak"
   />
 </p>
-
