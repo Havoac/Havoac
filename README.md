@@ -88,11 +88,11 @@ I enjoy working with a variety of technologies across the full stack to build ro
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Havoac&theme=radical"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Havoac&theme=radical&v=2"
     alt="Havoac's GitHub Stats"
   />
   <img
-    src="https://streak-stats.demolab.com/?user=Havoac&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Havoac&theme=radical&hide_border=true&v=2"
     alt="Havoac's GitHub Streak"
   />
 </p>
