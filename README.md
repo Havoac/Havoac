@@ -84,6 +84,15 @@ I enjoy working with a variety of technologies across the full stack to build ro
   />
 </p>
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Havoac/Havoac/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Havoac/Havoac/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
